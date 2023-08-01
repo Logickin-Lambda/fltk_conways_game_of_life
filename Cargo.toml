@@ -1,0 +1,13 @@
+[package]
+name = "fltk_conways_game_of_life"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fltk = "1.4.9"
+
+[build-dependencies]
+fl2rust = "0.4"
+
